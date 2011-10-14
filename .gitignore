@@ -1,0 +1,6 @@
+[B|b]in
+[O|o]bj
+*.sln
+*.suo
+*.user
+_ReSharper.*
